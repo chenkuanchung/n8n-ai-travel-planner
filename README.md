@@ -49,20 +49,41 @@
 ### 1. 需求輸入 (Landing Page)
 * 簡單直覺的表單，設定地點、天數與風格。
 
-![需求輸入畫面](images/travel_input.png)
+<details>
+  <summary>點此展開查看 [ 需求輸入 ] 介面 ▶️</summary>
+  
+  <br>
+  <img src="images/travel_input.png" width="800" alt="需求輸入畫面">
+  
+</details>
 
 ### 2. 規劃與查證 (Chat Interface)
 * AI 會分階段規劃，並顯示查證過程（不會一次吐出全部內容導致幻覺）。
 
-![聊天規劃畫面 - 1](images/chat1.png)
-![聊天規劃畫面 - 2](images/chat2.png)
-![聊天規劃畫面 - 3](images/chat3.png)
+<details>
+  <summary>點此展開查看 [ 規劃與查證 ] 過程 (共3張) ▶️</summary>
+  
+  <br>
+  <img src="images/chat1.png" width="800" alt="聊天規劃畫面 - 1">
+  <br><br>
+  <img src="images/chat2.png" width="800" alt="聊天規劃畫面 - 2">
+  <br><br>
+  <img src="images/chat3.png" width="800" alt="聊天規劃畫面 - 3">
+  
+</details>
 
 ### 3. 最終成果 (Final Itinerary HTML)
 * 生成可列印的 HTML 旅遊書，包含詳細地址與交通資訊。
 
-![旅遊書展示 - 1](images/travel_output_up.png)
-![旅遊書展示 - 2](images/travel_output_bottom.png)
+<details>
+  <summary>點此展開查看 [ 最終旅遊書 ] 成果 (共2張) ▶️</summary>
+  
+  <br>
+  <img src="images/travel_output_up.png" width="800" alt="旅遊書展示 - 上半部">
+  <br><br>
+  <img src="images/travel_output_bottom.png" width="800" alt="旅遊書展示 - 下半部">
+  
+</details>
 
 
 ## ⚙️ 事前準備 (Prerequisites)
@@ -95,6 +116,3 @@
 ## 📄 License
 
 [MIT](LICENSE)
-
-
-# Thank you!!!
