@@ -8,9 +8,10 @@
 
 ## ⚠️ 重要聲明 (Disclaimer)
 
-由於本專案使用 Google Places/Maps API 進行真實地點查證，**每次對話皆會產生 API 費用**。因此，本專案 **不提供公開的 Live Demo 連結**。
+* 由於本專案使用 Google Places/Maps API 進行真實地點查證，**每次對話皆會產生 API 費用**。因此，本專案 **不提供公開的 Live Demo 連結**。
 
-請下載 JSON 檔案並使用您自己的 API Key 進行部署。這是一個為了「個人使用」與「自動化邏輯研究」而設計的專案。
+* 請下載 JSON 檔案並使用您自己的 API Key 進行部署。這是一個為了「個人使用」與「自動化邏輯研究」而設計的專案。
+
 
 ## 📖 專案介紹 (Introduction)
 
@@ -23,6 +24,7 @@
 * **證據導向**：沒有經過 Google Maps API 驗證的地點，不會出現在行程表上。
 * **全端自動化**：不依賴 Vercel 或 Netlify，直接利用 n8n 的 Webhook 渲染前端介面。
 
+
 ## 🏗️ 技術架構 (Tech Stack)
 
 本專案採用完全開源或提供免費層級 (Free Tier) 的服務搭建，適合開發者低成本復刻：
@@ -33,12 +35,14 @@
 * **LLM**: Google Gemini (PaLM)
 * **Tools**: Google Custom Search API, Google Maps Platform (Places API)
 
+
 ## ✨ 核心功能 (Key Features)
 
 1.  **🗺️ 實時查證 (Fact-Checking)**：自動過濾永久停業的店家，拒絕過時資訊。
 2.  **🚗 智慧動線計算 (Smart Routing)**：內建距離計算機，估算景點間車程，避免「折返跑」。
 3.  **💻 無伺服器前端 (Serverless UI)**：由 n8n 直接渲染 HTML/JS 聊天視窗，支援 Markdown。
 4.  **📄 一鍵生成旅遊書 (HTML/PDF Export)**：規劃完成後，可一鍵匯出精美排版的行程表。
+
 
 ## 📸 專案展示 (Screenshots)
 
@@ -60,6 +64,7 @@
 ![旅遊書展示 - 1](images/travel_output_up.png)
 ![旅遊書展示 - 2](images/travel_output_bottom.png)
 
+
 ## ⚙️ 事前準備 (Prerequisites)
 
 在匯入 Workflow 之前，請確保您擁有以下 API Keys：
@@ -67,6 +72,7 @@
 1.  **Google Gemini API Key**
 2.  **Google Custom Search API Key** & **Search Engine ID**
 3.  **Google Maps Platform API Key** (需啟用 **Places API (New)**)
+
 
 ## 🚀 安裝與設定 (Installation)
 
@@ -91,4 +97,4 @@
 [MIT](LICENSE)
 
 
-
+##      
