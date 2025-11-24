@@ -53,7 +53,7 @@
   <summary>點此展開查看 [ 需求輸入 ] 介面 ▶️</summary>
   
   <br>
-  <img src="images/travel_input.png" width="800" alt="需求輸入畫面">
+  <img src="images/travel_input.png" width="500" alt="需求輸入畫面">
   
 </details>
 
@@ -64,11 +64,11 @@
   <summary>點此展開查看 [ 規劃與查證 ] 過程 (共3張) ▶️</summary>
   
   <br>
-  <img src="images/chat1.png" width="800" alt="聊天規劃畫面 - 1">
+  <img src="images/chat1.png" width="500" alt="聊天規劃畫面 - 1">
   <br><br>
-  <img src="images/chat2.png" width="800" alt="聊天規劃畫面 - 2">
+  <img src="images/chat2.png" width="500" alt="聊天規劃畫面 - 2">
   <br><br>
-  <img src="images/chat3.png" width="800" alt="聊天規劃畫面 - 3">
+  <img src="images/chat3.png" width="500" alt="聊天規劃畫面 - 3">
   
 </details>
 
@@ -79,9 +79,9 @@
   <summary>點此展開查看 [ 最終旅遊書 ] 成果 (共2張) ▶️</summary>
   
   <br>
-  <img src="images/travel_output_up.png" width="800" alt="旅遊書展示 - 上半部">
+  <img src="images/travel_output_up.png" width="500" alt="旅遊書展示 - 上半部">
   <br><br>
-  <img src="images/travel_output_bottom.png" width="800" alt="旅遊書展示 - 下半部">
+  <img src="images/travel_output_bottom.png" width="500" alt="旅遊書展示 - 下半部">
   
 </details>
 
